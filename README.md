@@ -1,5 +1,7 @@
 <h1 align="center"><b>Ark: Accruing and Reusing Knowledge</b></h1>
 
+This is a fork of https://github.com/jlianglab/Ark[https://github.com/jlianglab/Ark]
+
 We develop **Open Foundation Models** from numerous public datasets using their heterogeneous expert annotations. 
 
 <p align="center"><img width=50% alt="FrontCover" src="Ark_MICCAI2023/media/ark.png"></p>
